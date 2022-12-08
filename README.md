@@ -1,4 +1,4 @@
-# Awesome ChatGPT URL list
+# Awesome ChatGPT
 
 [ChatGPT](https://chat.openai.com/chat)
 
