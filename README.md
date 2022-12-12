@@ -2,16 +2,6 @@
 
 [ChatGPT](https://chat.openai.com/chat)
 
-## Prompts
-
- - https://showgpt.co/
- - https://github.com/f/awesome-chatgpt-prompts
- - https://github.com/humanloop/awesome-chatgpt
- - https://github.com/sw33tLie/impressive-chatgpt
- - https://github.com/progrmoiz/awesome-chatgpt
- - https://github.com/taranjeet/awesome-chatgpt
- - [Render SVG](https://gist.github.com/bskaggs/2d2852513cc36d35acf5e19c4dc7af5f)
-
 ## Tips for bypassing limitation
 
  - Ask question in roleplay format for going beyong limitation
@@ -32,12 +22,14 @@
 ### Python
 
  - [Twitter Timeline interaction](https://github.com/Pab450/ana)
+ - [Stack Explain](https://github.com/shobrook/stackexplain)
  - [Lightweight client](https://github.com/acheong08/ChatGPT)
  - [Featuresfull client](https://github.com/rawandahmad698/PyChatGPT)
  - [Image to ChatGPT](https://github.com/SoloMReal/ChatGPTAssignment)
  - [Multi-Session client](https://github.com/shiyemin/ChatGPT-MS)
  - [Wrapper](https://github.com/labteral/chatgpt-python)
  - [Chinese Telegram bot](https://github.com/sudoskys/Openaibot)
+ - [LLDB plugin](https://github.com/ant4g0nist/polar)
  - [Telegram bot StableDiffusion+ChatGPT](https://github.com/altryne/chatGPT-telegram-bot)
  - [Discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
  - [Slack](https://github.com/pedrorito/ChatGPTSlackBot)
@@ -49,6 +41,7 @@
  - [GoogleDoc x ChatGPT](https://github.com/cesarhuret/docGPT)
  - [Command Line Interface](https://github.com/mmabrouk/chatgpt-wrapper)
  - [Dungeon story telling](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+ - [Ghidra decompiler snippet explainer](https://github.com/SourceDiver42/Ghidra-ChatGPT)
 
 ### Swift
 
@@ -81,6 +74,7 @@
  - [VSCode extension](https://github.com/mpociot/chatgpt-vscode)
  - [Commit message generator](https://github.com/RomanHotsiy/commitgpt)
  - [Raycast extension](https://github.com/abielzulio/chatgpt-raycast)
+ - [Matrix bot](https://github.com/jakecoppinger/matrix-chatgpt-bot)
 
 ### Golang
 
@@ -94,6 +88,7 @@
 ### Javascript
 
  - [MacOS menu bar](https://github.com/vincelwt/chatgpt-mac)
+ - [Github action PR review helper](https://github.com/kxxt/chatgpt-action)
 
 ### V
 
@@ -104,7 +99,7 @@
  - [GPTLang](https://github.com/forrestchang/gptlang)
      - A new language only available within ChatGPT
 
-### Browser extension
+### Browser extensions
 
  - [Chrome Web pages summarization](https://github.com/clmnin/summarize.site)
  - [Google/Baidu/Toutia/Bing search](https://github.com/Doragd/chat-gpt-search-extension)
@@ -118,15 +113,27 @@
  - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
  - [Building an interpreter for my own programming language in ChatGPT](https://6502.is-a.dev/posts/aoc-2022/)
 
-## Conversation
+## Conversations
 
  - [How to build your own chatGPT in Python](https://twitter.com/Issac_py/status/1599699042585706496)
  - [Spectacular ChatGPT failure](https://twitter.com/sytelus/status/1600250786025308162)
  - [All the best examples of ChatGPT, from OpenAI](https://twitter.com/bentossell/status/1598269692082151424)
 
-## Notable mention
+## Notable mentions
 
-### People to follow
+### Prompts
+
+ - https://showgpt.co/
+ - https://github.com/f/awesome-chatgpt-prompts
+ - https://github.com/humanloop/awesome-chatgpt
+ - https://github.com/sw33tLie/impressive-chatgpt
+ - https://github.com/progrmoiz/awesome-chatgpt
+ - [Awesome ChatGPT sorted by use cases](https://github.com/taranjeet/awesome-chatgpt)
+ - [Render SVG](https://gist.github.com/bskaggs/2d2852513cc36d35acf5e19c4dc7af5f)
+
+### Peoples to follow
 
  - https://twitter.com/goodside
  - https://twitter.com/brdskggs
+ - https://twitter.com/sama
+ - https://twitter.com/AndrewMayne
