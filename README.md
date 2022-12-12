@@ -22,6 +22,7 @@
 ### Python
 
  - [Twitter Timeline interaction](https://github.com/Pab450/ana)
+ - [OpenAI Auth](https://github.com/acheong08/OpenAIAuth)
  - [Stack Explain](https://github.com/shobrook/stackexplain)
  - [Lightweight client](https://github.com/acheong08/ChatGPT)
  - [Featuresfull client](https://github.com/rawandahmad698/PyChatGPT)
@@ -84,6 +85,10 @@
 ### Rust
 
  - [Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop)
+ 
+### PHP
+
+ - [Wrapper](https://github.com/onekb/ChatGPT)
 
 ### Javascript
 
@@ -121,13 +126,14 @@
 
 ## Notable mentions
 
-### Prompts
+### Prompts & others
 
  - https://showgpt.co/
  - https://github.com/f/awesome-chatgpt-prompts
  - https://github.com/humanloop/awesome-chatgpt
  - https://github.com/sw33tLie/impressive-chatgpt
  - https://github.com/progrmoiz/awesome-chatgpt
+ - https://github.com/Kamigami55/awesome-chatgpt
  - [Awesome ChatGPT sorted by use cases](https://github.com/taranjeet/awesome-chatgpt)
  - [Render SVG](https://gist.github.com/bskaggs/2d2852513cc36d35acf5e19c4dc7af5f)
 
